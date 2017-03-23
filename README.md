@@ -1,4 +1,4 @@
-This app is a demonstration on how to use CalenderView in Android.<br />
+This app is a demonstration on how to use 'CalenderView' in Android.<br />
 
 <b>Dependency used:</b> compile 'com.github.alamkanak:android-week-view:1.2.6'<br />
 
